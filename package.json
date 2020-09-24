@@ -1,0 +1,23 @@
+{
+  "name": "pwa-pratique",
+  "version": "1.0.0",
+  "description": "# Partie 1 : Commencer le projet et l'ouvrir sur le serveur local",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "live-server --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saveriubattesti/pwa-pratique.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saveriubattesti/pwa-pratique/issues"
+  },
+  "homepage": "https://github.com/saveriubattesti/pwa-pratique#readme"
+}
