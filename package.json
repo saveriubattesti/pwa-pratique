@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "# Partie 1 : Commencer le projet et l'ouvrir sur le serveur local",
   "main": "main.js",
-  "dependencies": {},
+  "dependencies": {
+    "web-push": "^3.4.4"
+  },
   "devDependencies": {},
   "scripts": {
     "jsonserver": "json-server -p 3001 --watch db.json",
